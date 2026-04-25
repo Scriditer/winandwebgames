@@ -1,2 +1,2 @@
-# winandwebgames
-Some games and site
+# winandwebgame
+Web games, all web games are open source 
